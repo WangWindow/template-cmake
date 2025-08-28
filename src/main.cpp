@@ -7,6 +7,7 @@
  * 2025 by WangWindow, All Rights Reserved.
  * @Descripttion:
  */
+#include <iostream>
 
 auto main() -> int {
     std::cout << "Hello, LeeCode!" << std::endl;
